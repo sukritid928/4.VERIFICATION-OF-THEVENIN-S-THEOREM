@@ -1,5 +1,6 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+<img width="1280" height="970" alt="image" src="https://github.com/user-attachments/assets/81c284c1-abec-4482-b11a-1b42ed479fbc" /># 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+## NAME: SUKRITI D
+## REF.NO: 25018316
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -33,6 +34,11 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+
+<img width="818" height="1280" alt="image" src="https://github.com/user-attachments/assets/8581d596-bd06-4190-9048-928dd0424d2d" />
+<img width="842" height="1280" alt="image" src="https://github.com/user-attachments/assets/e068fe86-ba9e-433b-98fb-db762f6175d2" />
+<img width="1184" height="1280" alt="image" src="https://github.com/user-attachments/assets/276392c2-a81b-4d03-9a08-a2e1f842ed48" />
+
 
 To measure IL
 
@@ -72,9 +78,18 @@ Thevenin’s equivalent circuit
 9.	Set an input voltage of 10V in the RPS and note down the voltmeter reading Vi and Ammeter reading IN (= Isc) in Tabular Column 4.
 
 10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
+11.	11.	Calculate the IL value using the formula Thevenin’s Theorem
+IL = VTh/ ( RTh+ R L)
+Norton’s Theorem
+IL = IN * RN / ( RN + RL )
 
-11.	Calculate the IL value using the formula
-    Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
-    Norton’s Theorem IL = IN * RN / ( RN + RL )
+12.	Theoretically verify the Thevenin’s theorem.
 
-13.	Theoretically verify the Norton’s theorem.
+
+	  **RESULT:**
+
+
+Thus Thevenin’s theorem is verified practically and theoretically.
+<img width="1280" height="970" alt="image" src="https://github.com/user-attachments/assets/15f7f7ca-15f6-4577-a81f-fdc6d9f8b22e" />
+   
+
