@@ -1,4 +1,4 @@
-<img width="1280" height="970" alt="image" src="https://github.com/user-attachments/assets/81c284c1-abec-4482-b11a-1b42ed479fbc" /># 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+**4.VERIFICATION-OF-THEVENIN-S-THEOREM**
 ## NAME: SUKRITI D
 ## REF.NO: 25018316
 **AIM:**
